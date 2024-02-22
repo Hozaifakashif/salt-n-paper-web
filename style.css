@@ -1,0 +1,37 @@
+em{
+    font-size: large;
+    color: white;
+}
+strong{
+    font-size: x-large;
+    color: white;
+}
+p{
+    color: gainsboro;
+}
+.ab{
+    background-color: black;
+    margin-left: 260px;
+    padding: 5px;
+    border-color:white ;
+    border-radius: 20px;
+}
+.even{
+    font-size: x-large;
+    margin-top: -5px;
+}
+.odd{
+    margin-top: -1%;
+    color: white;
+}
+.ss{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.sk{
+    margin-left: 60%;
+    color: aqua;
+    background-color: grey;
+border-radius: 20px;
+height: 30px;    
+}
